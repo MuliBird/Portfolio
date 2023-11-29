@@ -1,0 +1,38 @@
+header {
+    background-color: green;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    font-size: 24px;
+    font-family: Bahnschrift;
+}   
+footer {
+    background-color: green;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 5px;  
+    font-size: 18px;
+    font-family: Bahnschrift; 
+}   
+main {
+    color: green;
+    font-family: Bahnschrift;
+}
+main a {
+    color: green;
+    font-size: 20px;
+}
+main p{
+    font-size: 20px;
+}    
+header li {
+    display: inline;
+}   
+header a {
+    color: lime;
+    font-size: 18px;
+}
+main img {
+    width: 200px;
+    height: 150px
+}

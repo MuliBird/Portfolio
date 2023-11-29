@@ -1,0 +1,85 @@
+.january1 {
+    text-align: center;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fon {
+    font-size: 25px;
+    text-align: center;
+    background-color: Ivory;
+    border: 2px solid greenyellow;
+    border-collapse: collapse;
+}
+#fon {
+    background-color: green;
+    color: Ivory;
+}
+#t {
+    color: PaleGreen;
+    text-shadow: 1px 1px 1px green;
+}
+th {
+    border:1px solid greenyellow;
+}
+td {
+    border:1px solid greenyellow;
+}
+h2 {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ul_li li{
+    list-style-type: none;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav {
+    display: inline;
+}
+.b {
+    color: Honeydew;
+    font-family: 'Times New Roman', Times, serif;
+}
+header img{
+    width: 50px;
+    height: 50px;
+}
+header {
+    background-color: green;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+footer {
+    background-color: green;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+footer p{
+    color: Honeydew;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer img{
+    width: 22px;
+    height: 20px;
+}
+p {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ul_li1 li{
+    list-style-type: none;
+    color: green;
+}
+form input{
+   background: honeydew;
+}
+form button{
+    background: honeydew;
+    color: green;
+}
